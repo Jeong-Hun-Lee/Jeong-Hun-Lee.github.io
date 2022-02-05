@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Jeong-hun Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **AI researcher**. My field of interest is **Computer Vision."
+  bio              : "I am an **AI researcher**. My field of interest is **Computer Vision**."
   location         : "Seoul, Republic of Korea"
   email            :
   links:
