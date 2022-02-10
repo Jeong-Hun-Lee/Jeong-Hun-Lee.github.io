@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Jeong-hun Lee's AI Lab"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "since 2022"
 name                     : "Jeong-hun Lee"
 description              : "An amazing website."
 url                      : "https://Jeong-Hun-Lee.github.io"
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Jeong-hun Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I am an **AI researcher**. My field of interest is **Computer Vision**."
   location         : "Seoul, Republic of Korea"
   email            :
