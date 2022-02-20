@@ -4,8 +4,8 @@ layout: splash
 permalink: /home/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.75"
-  overlay_image: /assets/images/new_york.jpeg
+  overlay_filter: "0.25"
+  overlay_image: /assets/images/new_york.jpg
   actions:
     - label: "Download"
       url: "#test-link"
