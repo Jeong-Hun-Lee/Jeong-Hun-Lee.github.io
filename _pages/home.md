@@ -14,7 +14,7 @@ excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef 
 intro:
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 
-  feature_row:
+feature_row:
   - image_path: /assets/splash/feat1-1.jpg
     title: "Placeholder 1"
     excerpt: "Sample text 1 with **markdown** formatting."
@@ -34,3 +34,5 @@ intro:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
+
+{% include feature_row id="intro" type="center" %}
