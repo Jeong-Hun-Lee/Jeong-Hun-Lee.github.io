@@ -1,11 +1,11 @@
 ---
-title: "Splash Page"
+title: "Home"
 layout: splash
-permalink: /splash-page/
+permalink: /home/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/coffee.jpg
+  overlay_image: /assets/images/new_york.jpg
   actions:
     - label: "Download"
       url: "#test-link"
