@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: https://jeong-hun-lee.github.io/home/
+    url: /home/
   - title: "Profile"
     url: 
   - title: "Research"
