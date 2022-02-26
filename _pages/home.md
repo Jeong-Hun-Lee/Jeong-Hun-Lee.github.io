@@ -1,7 +1,7 @@
 ---
 title: "Jeong-hun Lee's AI Lab"
 layout: splash
-permalink: /home/
+permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
