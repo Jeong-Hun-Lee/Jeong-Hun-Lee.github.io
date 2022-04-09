@@ -1,5 +1,5 @@
 ---
-title: "Jeong-hun Lee's AI Lab"
+title: "Welcome to the Jeong-hun Lee's AI Lab!"
 layout: splash
 permalink: /
 header:
@@ -7,32 +7,30 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/new_york.jpg
   actions:
-    - label: "Download"
-      url: "#download-link"
-    - label: "Test"
-      url: "#test-link"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+    - label: "Detail View"
+      url: /about/
+excerpt: "With this web page, we hope to share research and development related to AI. In particular, the focus will be on computer vision fields (e.g., object detection, semantic segmentation, etc.)."
 
 intro:
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 
 feature_row:
   - image_path: /assets/images/feat1-1.jpg
-    title: "Placeholder 1"
+    title: "About"
     excerpt: "Sample text 1 with **markdown** formatting."
-    url: "#test-link"
+    url: "#about"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/feat1-2.jpg
-    title: "Placeholder 2"
+    title: "Research"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "#research"
     btn_label: "Read More"
-    btn_class: "btn--secondar"
+    btn_class: "btn--primary"
   - image_path: /assets/images/feat1-3.jpg
-    title: "Placeholder 3"
+    title: "Development"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    url: "#development"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
