@@ -12,7 +12,7 @@ header:
 excerpt: "With this web page, we hope to share research and development related to AI. In particular, the focus will be on computer vision fields (e.g., object detection, semantic segmentation, etc.)."
 
 intro:
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: '**Keywords:** Artificial Intelligence (AI), Machine Learning, Deep Learning, Computer Vision, Image Classification, Object Detection, Semantic Segmentation, Instance Segmentation, Vision Transformer (ViT)'
 
 feature_row:
   - image_path: /assets/images/feat1-1.jpg
