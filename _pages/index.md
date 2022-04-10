@@ -15,22 +15,22 @@ intro:
   - excerpt: '**Keywords:** Artificial Intelligence (AI), Machine Learning, Deep Learning, Computer Vision, Image Classification, Object Detection, Semantic Segmentation, Instance Segmentation, Vision Transformer (ViT)'
 
 feature_row:
-  - image_path: /assets/images/feat1-1.jpg
+  - image_path: /assets/images/about.jpg
     title: "About"
     excerpt: "Sample text 1 with **markdown** formatting."
-    url: "#about"
+    url: "/about/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/feat1-2.jpg
+  - image_path: /assets/images/research.jpg
     title: "Research"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#research"
+    url: "/research/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/feat1-3.jpg
+  - image_path: /assets/images/development.jpg
     title: "Development"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#development"
+    url: "/development/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
