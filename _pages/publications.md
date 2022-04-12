@@ -9,6 +9,11 @@ toc_icon: "calendar"
 last_modified_at: 2022-04-10T01:05:00+09:00
 ---
 
+<!-- International Journal
+International Conference
+Domestic Journal
+Domestic Conference -->
+
 **Information**  
 †: These authors contributed equally to this work.  
 ‡: Corresponding author.
@@ -56,7 +61,14 @@ last_modified_at: 2022-04-10T01:05:00+09:00
 </p>
 <p style="font-size: 0.75em; color: gray;">
     <b>Jeong-hun Lee</b>, Geun-seong Jung, Han-sung Kim, Jae-hyuk Cha‡<br/>
-    korea Software Congress 2019, 87-89<br/>
+    korea Software Congress 2019, 87-89
+    <sapn style="font-size: 0.688em; color: gray;">
+        (also at
+        <a href="https://www.ftsm.ukm.my/wuhu2019/WUHU%202019%20PROGRAMME%20BOOK%201.pdf">
+           WUHU 2019
+        </a>
+        Workshop in IT (Oral Presentation))<br/>
+    </sapn>
     <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09301494">
         [Link]
     </a>
