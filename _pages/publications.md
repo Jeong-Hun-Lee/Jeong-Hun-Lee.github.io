@@ -2,17 +2,14 @@
 title: "Publications"
 layout: single
 permalink: /publications/
-author_profile: true
+sidebar:
+  title: "Publications"
+  nav: "publications"
 toc: ture
 toc_label: "Years"
 toc_icon: "calendar"
 last_modified_at: 2022-04-10T01:05:00+09:00
 ---
-
-<!-- International Journal
-International Conference
-Domestic Journal
-Domestic Conference -->
 
 **Information**  
 †: These authors contributed equally to this work.  

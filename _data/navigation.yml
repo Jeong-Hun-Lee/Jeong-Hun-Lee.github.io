@@ -18,3 +18,54 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+research:
+  - title: "Computer Vision"
+    children:
+      - title: "Image Classification"
+        url: #
+      - title: "Object Detection"
+        url: #
+      - title: "Semantic Segmentation"
+        url: #
+      - title: "Instance Segmentation"
+        url: #
+
+  - title: "Trajectory Data Mining"
+    children:
+      - title: "Stay Point Detection"
+        url: #
+      - title: "Activity Recognition"
+        url: #
+
+publications:
+  - title: "Publications"
+    children:
+      - title: "International Journal"
+        url: #
+      - title: "International Conference"
+        url: #
+      - title: "Domestic Journal"
+        url: #
+      - title: "Domestic Conference"
+        url: #
+
+development:
+  - title: "Tensorflow"
+    children:
+      - title: "Image Classification"
+        url: #
+      - title: "Object Detection"
+        url: #
+      - title: "Semantic Segmentation"
+        url: #
+      - title: "Instance Segmentation"
+        url: #
+
+  - title: "Scikit-Mobility"
+    children:
+      - title: "Stay Point Detection"
+        url: #
+      - title: "Activity Recognition"
+        url: #
+
