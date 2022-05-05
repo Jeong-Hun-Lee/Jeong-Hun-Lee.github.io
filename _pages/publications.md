@@ -16,6 +16,19 @@ last_modified_at: 2022-04-10T01:05:00+09:00
 ‡: Corresponding author.
 {: .notice}
 
+#### 2022
+---
+<p style="font-size: 0.875em; margin-bottom: 0px;">
+    <b>Adaptive Attention Mechanism based Object Detection Method for Unstructured Object Recognition</b>
+</p>
+<p style="font-size: 0.75em; color: gray;">
+    <b>Jeong-hun Lee†</b>, Woo-sun Chon†, Sang-ku Son†, Jae-hong Eom‡<br/>
+    Korea Computer Congress 2022<br/>
+    <a href="https://www.kiise.or.kr/conference/kcc/2022">
+        [Link]
+    </a>
+</p>
+
 #### 2021
 ---
 <p style="font-size: 0.875em; margin-bottom: 0px;">
