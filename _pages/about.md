@@ -1,13 +1,11 @@
 ---
-# title: "About"
+title: "Jeong-hun Lee"
 layout: single
 permalink: /about/
 author_profile: true
 # toc: ture
 last_modified_at: 2022-06-02T17:15:00+09:00
 ---
-
-# Jeong-hun Lee
 
 <div style="font-size: 0.875em">
     I am an AI researcher at Hyundai-Autoever R&D Center (affiliate company of Hyundai Motor Group, HMG). I received my master's degree in computer science at Hanyang University.<br/>
