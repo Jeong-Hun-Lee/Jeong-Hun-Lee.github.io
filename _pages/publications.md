@@ -22,7 +22,7 @@ last_modified_at: 2022-04-10T01:05:00+09:00
     <b>Adaptive Attention Mechanism based Object Detection Method for Unstructured Object Recognition</b>
 </p>
 <p style="font-size: 0.75em; color: gray;">
-    <b>Jeong-hun Lee†</b>, Woo-sun Chon†, Sang-ku Son†, Jae-hong Eom‡<br/>
+    <b>Jeong-hun Lee†</b>, Woo-sun Chon†, Sang-kyu Son†, Jae-hong Eom‡<br/>
     Korea Computer Congress 2022
     <span style="font-size: 0.688em; color: gray;">
         (in Progress)<br/>
@@ -49,7 +49,7 @@ last_modified_at: 2022-04-10T01:05:00+09:00
     <b>Inception-CNN based Modeling for Traffic Speed Prediction</b>
 </p>
 <p style="font-size: 0.75em; color: gray;">
-    <b>Jeong-hun Lee</b>, Sang-ku Son, Jong-suk Oh, Jae-hong Eom‡<br/>
+    <b>Jeong-hun Lee</b>, Sang-kyu Son, Jong-suk Oh, Jae-hong Eom‡<br/>
     The 2021 Fall Conference of The Korea Society of IT Services, 722-724<br/>
     <a href="https://www.itservice.or.kr/data02.html?bmode=read&bid=data1&id_no=762&l=1">
         [Link]
