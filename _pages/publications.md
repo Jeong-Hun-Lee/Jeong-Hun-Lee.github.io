@@ -8,7 +8,7 @@ sidebar:
 toc: ture
 toc_label: "Years"
 toc_icon: "calendar"
-last_modified_at: 2022-06-02T15:59:00+09:00
+last_modified_at: 2022-12-16T23:40:00+09:00
 ---
 
 **Information**  
@@ -19,15 +19,26 @@ last_modified_at: 2022-06-02T15:59:00+09:00
 #### 2022
 ---
 <p style="font-size: 0.875em; margin-bottom: 0px;">
+    <b>Geospatial Embedding Method based on Dynamic Resolution for Large Scale Road Network Representation</b>
+</p>
+<p style="font-size: 0.75em; color: gray;">
+    Woo-sun Chon†, <b><u>Jeong-hun Lee</u>†</b>, Sang-kyu Son†, Delphine†, Jae-hong Eom‡<br/>
+    korea Software Congress 2022
+    <span style="font-size: 0.688em; color: gray;">
+        (in Progress)<br/>
+    </span>
+    <a href="https://www.kiise.or.kr/conference/KSC/2022/">
+        [Link]
+    </a>
+</p>
+
+<p style="font-size: 0.875em; margin-bottom: 0px;">
     <b>Adaptive Attention Mechanism based Object Detection Method for Unstructured Object Recognition</b>
 </p>
 <p style="font-size: 0.75em; color: gray;">
     <b><u>Jeong-hun Lee</u>†</b>, Woo-sun Chon†, Sang-kyu Son†, Jae-hong Eom‡<br/>
-    Korea Computer Congress 2022
-    <span style="font-size: 0.688em; color: gray;">
-        (in Progress)<br/>
-    </span>
-    <a href="https://www.kiise.or.kr/conference/kcc/2022">
+    Korea Computer Congress 2022, 840-842<br>
+    <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113491">
         [Link]
     </a>
 </p>
