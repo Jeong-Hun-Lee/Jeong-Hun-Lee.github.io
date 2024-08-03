@@ -8,7 +8,7 @@ sidebar:
 toc: ture
 toc_label: "Years"
 toc_icon: "calendar"
-last_modified_at: 2022-12-16T23:40:00+09:00
+last_modified_at: 2024-08-04T00:00:00+09:00
 ---
 
 **Information**  
@@ -16,24 +16,85 @@ last_modified_at: 2022-12-16T23:40:00+09:00
 ‡: Corresponding author.
 {: .notice}
 
-#### 2022
+#### 2023
 ---
 <p style="font-size: 0.875em; margin-bottom: 0px;">
-    <b>Geospatial Embedding Method based on Dynamic Resolution for Large Scale Road Network Representation</b>
+    <b>Device for Searching for an Optimal Route Based on The Entire Route and Method Therefor</b>
 </p>
 <p style="font-size: 0.75em; color: gray;">
-    Woo-sun Chon†, <b><u>Jeong-hun Lee</u>†</b>, Sang-kyu Son†, Delphine†, Jae-hong Eom‡<br/>
-    korea Software Congress 2022
-    <span style="font-size: 0.688em; color: gray;">
-        (in Progress)<br/>
-    </span>
-    <a href="https://www.kiise.or.kr/conference/KSC/2022/">
+    Sang-kyu Son, <b><u>Jeong-hun Lee</u></b>, et al.<br/>
+    DE102023135513.9A, 2023<br>
+    <a href="https://patents.google.com/patent/DE102023135513A1/en">
         [Link]
     </a>
 </p>
 
 <p style="font-size: 0.875em; margin-bottom: 0px;">
-    <b>Adaptive Attention Mechanism based Object Detection Method for Unstructured Object Recognition</b>
+    <b>Apparatus for Searching for an Optimal Route Based on an Entire Route and a Method Thereof</b>
+</p>
+<p style="font-size: 0.75em; color: gray;">
+    Sang-kyu Son, <b><u>Jeong-hun Lee</u></b>, et al.<br/>
+    US18/539,608, 2023<br>
+    <a href="https://patents.google.com/patent/US20240210192A1/en">
+        [Link]
+    </a>
+</p>
+
+<p style="font-size: 0.875em; margin-bottom: 0px;">
+    <b>Apparatus for Searching for Optimal Route Based on Whole Route and Method Thereof</b>
+</p>
+<p style="font-size: 0.75em; color: gray;">
+    Sang-kyu Son, <b><u>Jeong-hun Lee</u></b>, et al.<br/>
+    CN202311741541.5A, 2023<br>
+    <a href="https://patents.google.com/patent/CN118243118A/en">
+        [Link]
+    </a>
+</p>
+
+<p style="font-size: 0.875em; margin-bottom: 0px;">
+    <b>Apparatus and Method of Searching for Route Using Geospatial Embedding Based on Dynamic Resolution</b>
+</p>
+<p style="font-size: 0.75em; color: gray;">
+    Sang-kyu Son, <b><u>Jeong-hun Lee</u></b>, et al.<br/>
+</p>
+
+#### 2022
+---
+<p style="font-size: 0.875em; margin-bottom: 0px;">
+    <b>Apparatus for Searching for Optimal Route Based on Entire Route and Method Thereof</b>
+</p>
+<p style="font-size: 0.75em; color: gray;">
+    Sang-kyu Son, <b><u>Jeong-hun Lee</u></b>, et al.<br/>
+    KR10-2022-0182567, 2022<br>
+    <a href="http://www.kipris.or.kr/khome/main.jsp">
+        [Link]
+    </a>
+</p>
+
+<p style="font-size: 0.875em; margin-bottom: 0px;">
+    <b>Apparatus and Method for Converting Sensor Information to Image Information</b>
+</p>
+<p style="font-size: 0.75em; color: gray;">
+    Hyun-sang Yoo, <b><u>Jeong-hun Lee</u></b>, et al.<br/>
+    KR10-2022-0182239, 2022<br>
+    <a href="http://www.kipris.or.kr/khome/main.jsp">
+        [Link]
+    </a>
+</p>
+
+<p style="font-size: 0.875em; margin-bottom: 0px;">
+    <b>Geospatial Embedding Method Based on Dynamic Resolution for Large Scale Road Network Representation</b>
+</p>
+<p style="font-size: 0.75em; color: gray;">
+    Woo-sun Chon†, <b><u>Jeong-hun Lee</u>†</b>, Sang-kyu Son†, Delphine†, Jae-hong Eom‡<br/>
+    korea Software Congress 2022, 286-288<br>
+    <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224079">
+        [Link]
+    </a>
+</p>
+
+<p style="font-size: 0.875em; margin-bottom: 0px;">
+    <b>Adaptive Attention Mechanism Based Object Detection Method for Unstructured Object Recognition</b>
 </p>
 <p style="font-size: 0.75em; color: gray;">
     <b><u>Jeong-hun Lee</u>†</b>, Woo-sun Chon†, Sang-kyu Son†, Jae-hong Eom‡<br/>
@@ -46,7 +107,7 @@ last_modified_at: 2022-12-16T23:40:00+09:00
 #### 2021
 ---
 <p style="font-size: 0.875em; margin-bottom: 0px;">
-    <b>Semantic Segmentation Data Processing Method using Gaussian Function based Heatmap</b>
+    <b>Semantic Segmentation Data Processing Method Using Gaussian Function Based Heatmap</b>
 </p>
 <p style="font-size: 0.75em; color: gray;">
     <b><u>Jeong-hun Lee</u>†</b>, Woo-sun Chon†, Hang-gil Kang†, Jae-hong Eom‡<br/>
@@ -57,7 +118,7 @@ last_modified_at: 2022-12-16T23:40:00+09:00
 </p>
 
 <p style="font-size: 0.875em; margin-bottom: 0px;">
-    <b>Inception-CNN based Modeling for Traffic Speed Prediction</b>
+    <b>Inception-CNN Based Modeling for Traffic Speed Prediction</b>
 </p>
 <p style="font-size: 0.75em; color: gray;">
     <b><u>Jeong-hun Lee</u></b>, Sang-kyu Son, Jong-suk Oh, Jae-hong Eom‡<br/>
@@ -68,7 +129,7 @@ last_modified_at: 2022-12-16T23:40:00+09:00
 </p>
 
 <p style="font-size: 0.875em; margin-bottom: 0px;">
-    <b>A Study on Activity Recognition using Machine Learning Techniques: Focusing on Trajectory Data of Wheelchair Users</b>
+    <b>A Study on Activity Recognition Using Machine Learning Techniques: Focusing on Trajectory Data of Wheelchair Users</b>
 </p>
 <p style="font-size: 0.75em; color: gray;">
     <b><u>Jeong-hun Lee</u></b>, Jae-hyuk Cha‡<br/>
@@ -81,7 +142,7 @@ last_modified_at: 2022-12-16T23:40:00+09:00
 #### 2019
 ---
 <p style="font-size: 0.875em; margin-bottom: 0px;">
-    <b>Machine Learning based Bus Stop Detection from Raw GPS Data</b>
+    <b>Machine Learning Based Bus Stop Detection from Raw GPS Data</b>
 </p>
 <p style="font-size: 0.75em; color: gray;">
     <b><u>Jeong-hun Lee</u></b>, Geun-seong Jung, Han-sung Kim, Jae-hyuk Cha‡<br/>
