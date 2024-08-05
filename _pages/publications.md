@@ -8,7 +8,7 @@ sidebar:
 toc: ture
 toc_label: "Years"
 toc_icon: "calendar"
-last_modified_at: 2024-08-04T00:00:00+09:00
+last_modified_at: 2024-08-05T23:00:00+09:00
 ---
 
 **Information**  
@@ -56,6 +56,10 @@ last_modified_at: 2024-08-04T00:00:00+09:00
 </p>
 <p style="font-size: 0.75em; color: gray;">
     Sang-kyu Son, <b><u>Jeong-hun Lee</u></b>, et al.<br/>
+    KR-10-2023-0162282, 2023<br>
+    <a href="http://www.kipris.or.kr/khome/main.jsp">
+        [Link]
+    </a>
 </p>
 
 #### 2022
